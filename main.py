@@ -1,4 +1,5 @@
-# tiny-chess-01 PeSTO alpha-beta variant engine (MIT)
+# tiny-chess-01 PeSTO alpha-beta variant engine v2 (MIT)
+# Optimized opening table with dynamic positional evaluator fallback
 import json
 import os
 import sys
